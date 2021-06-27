@@ -11,3 +11,4 @@
  All stuff related to frontend
  * static, apa2 yang browser akan cache
  * main javascript bundle
+ * webpack untuk transpile semuajs  src file / bundle smua src file dalam satu file.
