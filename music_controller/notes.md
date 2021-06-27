@@ -26,3 +26,9 @@
 * Kita kene ada cara untuk tahu kat mana smua javascript file kita. Dan kemana kita akan outputkann file tu., relative kepada webpack.config punya kedudukan
 * tengok kat mana 'entry' dan ''output
 *__dirname current directory
+
+* Dekat package.json punya script. kita akan tambah 2 scripts utk runkan webpack things yang kita baru setup.
+*  "dev": "webpack --mode development --watch" 
+* Translation: hey kami nak webpack ni run, dalam developmnent punya mode dan dalam watch mode. / macma runserver tadi, kan ada je running server on terminal. watch javascript kita berubah kalau ada.
+pastu auto recompile
+* next, "build" script.
