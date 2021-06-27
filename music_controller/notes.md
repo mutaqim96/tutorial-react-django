@@ -8,3 +8,6 @@
  View already setup untuk bagi kita ll sort of different view
  * MAcam ni lah rest api di setup
  * MAcam mana nak add react
+ All stuff related to frontend
+ * static, apa2 yang browser akan cache
+ * main javascript bundle
