@@ -13,7 +13,7 @@ from .models import Room
 # def main(request):
 #   return HttpResponse("<h1>Hello</h1>")
 
-class RoomView(generics.ListAPIView):
+class RoomView(generics.CreateAPIView):
   queryset = Room.objects.all()
   serializer_class = RoomSerializer
 
