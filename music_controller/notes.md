@@ -16,3 +16,6 @@
  npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
  * Install React
  * Install Material UI : Prebuilt component supaya kita takyah style webpage sendiri.
+ * Install Babel punya plugin : npm install @babel/plugin-proposal-class-properties
+ * Untuk bagi kita boleh guna async dan await dalam kita pnya code.
+ 
