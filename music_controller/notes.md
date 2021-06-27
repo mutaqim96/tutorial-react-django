@@ -6,3 +6,4 @@
  * Mungkin backend tak hantar frontend HTML code. tapi akan hantar data
  * Serializer , amek data dalam bentuk python daripada model dan translate jadi bentuk json
  View already setup untuk bagi kita ll sort of different view
+ * MAcam ni lah rest api di setup
