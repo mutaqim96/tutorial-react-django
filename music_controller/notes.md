@@ -22,3 +22,7 @@
 * Setup configuration script yang akan run  dan uruskan webpack, babel dan smua.
 * link : https://github.com/techwithtim/Music-Controller-Web-App-Tutorial/blob/main/Tutorial%201%20-%204/frontend/babel.config.json 
 * babel.config.json/rc setup kan babel loader untuk kita. supaya boleh guna async dan await
+* Webpack.config untuk bundle semua ktia punya javascript ke dalam satu file dan serve satu file tu je ke browser.
+* Kita kene ada cara untuk tahu kat mana smua javascript file kita. Dan kemana kita akan outputkann file tu., relative kepada webpack.config punya kedudukan
+* tengok kat mana 'entry' dan ''output
+*__dirname current directory
