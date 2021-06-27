@@ -12,3 +12,5 @@
  * static, apa2 yang browser akan cache
  * main javascript bundle
  * webpack untuk transpile semuajs  src file / bundle smua src file dalam satu file.
+ * Babel untuk transpile code kita jadi any-browser friendly
+ npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
