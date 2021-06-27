@@ -35,3 +35,4 @@ pastu auto recompile
 * Nak bagi django render satu page yang react akan control
 
 * Load static
+ada path yang guna untuk internal
