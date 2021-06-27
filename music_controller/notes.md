@@ -32,3 +32,4 @@
 * Translation: hey kami nak webpack ni run, dalam developmnent punya mode dan dalam watch mode. / macma runserver tadi, kan ada je running server on terminal. watch javascript kita berubah kalau ada.
 pastu auto recompile
 * next, "build" script.
+* Nak bagi django render satu page yang react akan control
