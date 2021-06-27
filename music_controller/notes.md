@@ -19,3 +19,6 @@
  * Install Babel punya plugin : npm install @babel/plugin-proposal-class-properties
  * Untuk bagi kita boleh guna async dan await dalam kita pnya code.
  * Untuk bagi kita reroute from different pages. : npm install react-router-dom
+* Setup configuration script yang akan run  dan uruskan webpack, babel dan smua.
+* link : https://github.com/techwithtim/Music-Controller-Web-App-Tutorial/blob/main/Tutorial%201%20-%204/frontend/babel.config.json 
+* babel.config.json/rc setup kan babel loader untuk kita. supaya boleh guna async dan await
