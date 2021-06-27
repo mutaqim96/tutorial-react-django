@@ -14,3 +14,5 @@
  * webpack untuk transpile semuajs  src file / bundle smua src file dalam satu file.
  * Babel untuk transpile code kita jadi any-browser friendly
  npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
+ * Install React
+ * Install Material UI : Prebuilt component supaya kita takyah style webpage sendiri.
