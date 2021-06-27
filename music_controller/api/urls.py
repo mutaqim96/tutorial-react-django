@@ -5,5 +5,5 @@ from .views import main
 
 # main semua urls
 urlpatterns = [
-    path('', main)
+    path('home', main)
 ]
