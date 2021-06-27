@@ -6,4 +6,4 @@ from django.http import  HttpResponse
 # write semua endpoint cth www.../apa2
 # location on webserver 
 def main(request):
-  return HttpResponse("Hello")
+  return HttpResponse("<h1>Hello</h1>")
