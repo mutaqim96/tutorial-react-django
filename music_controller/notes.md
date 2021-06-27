@@ -33,3 +33,5 @@
 pastu auto recompile
 * next, "build" script.
 * Nak bagi django render satu page yang react akan control
+
+* Load static
