@@ -2,6 +2,7 @@ from django.shortcuts import render
 from rest_framework import generics
 #boleh buat class yang inherit daripada generics api views.
 from .serializers import RoomSerializer
+from .models import Room
 
 # Import httpresponse untuk bolehkan kita respond once receive request
 # from django.http import  HttpResponse
