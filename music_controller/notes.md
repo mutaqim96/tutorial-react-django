@@ -36,3 +36,7 @@ pastu auto recompile
 
 * Load static
 ada path yang guna untuk internal
+
+* hidupkan server guna python manage.py runserver
+* pastu run 2 script tadi. npm run [nama script]
+cth npm run dev
